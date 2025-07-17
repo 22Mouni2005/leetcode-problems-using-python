@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0088-merge-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0013-roman-to-integer) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 ## Math
 |  |
 | ------- |
@@ -61,11 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0067-add-binary) |
+| [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0088-merge-sorted-array) |
+| [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 ## Database
 |  |
 | ------- |
@@ -78,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
