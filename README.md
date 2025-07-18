@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Memoization
 |  |
 | ------- |
