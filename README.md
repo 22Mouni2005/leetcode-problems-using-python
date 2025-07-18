@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0162-find-peak-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0078-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
