@@ -20,5 +20,4 @@ class Solution:
             temp=temp.next
         n_head=temp.next
         temp.next=None
-        return n_head
-        
+        return n_head        
