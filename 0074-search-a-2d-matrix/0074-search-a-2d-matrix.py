@@ -13,11 +13,3 @@ class Solution:
             elif matrix[mid][0]>target:
                 high=mid-1
         return False
-
-
-
-             
-
-
-
-        
