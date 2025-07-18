@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0070-climbing-stairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0070-climbing-stairs) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Matrix
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0061-rotate-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
