@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0078-subsets) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0070-climbing-stairs) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Matrix
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
