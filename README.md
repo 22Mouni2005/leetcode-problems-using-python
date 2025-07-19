@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0078-subsets) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0041-first-missing-positive) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
