@@ -15,14 +15,9 @@ class Solution:
         if res==0:
             return "0"
         while res>=2:
-            if res==1:
-                s+="1"
-            elif res==0:
-                s+="0"
-            else:
-                r=res%2
-                s+=str(r)
-                res=res//2
+            r=res%2
+            s+=str(r)
+            res=res//2
         if res==1:
             s+="1"
         return s[::-1]
