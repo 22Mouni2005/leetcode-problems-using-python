@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0070-climbing-stairs) |
+| [0670-maximum-swap](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0670-maximum-swap) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0139-word-break) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
