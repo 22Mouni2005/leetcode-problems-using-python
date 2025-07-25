@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0061-rotate-list) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0088-merge-sorted-array) |
 | [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 ## Database
