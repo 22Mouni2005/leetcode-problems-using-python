@@ -3,8 +3,6 @@ class Solution:
         maxi=0
         mini_price=prices[0]
         for i in prices:
-            if i>mini_price:
-                maxi=max(maxi,i-mini_price)
-            else:
-                mini_price=i
+            mini_price=min(i,mini_price)
+            maxi=max(maxi,i-mini_price)
         return maxi
