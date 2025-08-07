@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0139-word-break) |
 ## Two Pointers
