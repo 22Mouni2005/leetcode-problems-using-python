@@ -7,6 +7,6 @@ class Solution {
             n/=3;
         }
         
-        return (n==1)?true:false;        
+        return (n==1);        
     }
 }
