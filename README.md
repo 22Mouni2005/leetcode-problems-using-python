@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2689-rearranging-fruits) |
 | [3790-fruits-into-baskets-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3790-fruits-into-baskets-ii) |
+| [3973-flip-square-submatrix-vertically](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3973-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3973-flip-square-submatrix-vertically](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3973-flip-square-submatrix-vertically) |
 ## String Matching
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0074-search-a-2d-matrix) |
+| [3973-flip-square-submatrix-vertically](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3973-flip-square-submatrix-vertically) |
 ## Linked List
 |  |
 | ------- |
