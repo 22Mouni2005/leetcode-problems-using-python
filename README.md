@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0670-maximum-swap) |
+| [1448-maximum-69-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0011-container-with-most-water) |
 | [0670-maximum-swap](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0670-maximum-swap) |
+| [1448-maximum-69-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1448-maximum-69-number) |
 | [2689-rearranging-fruits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2689-rearranging-fruits) |
 ## Stack
 |  |
