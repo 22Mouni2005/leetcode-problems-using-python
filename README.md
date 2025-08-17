@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0670-maximum-swap) |
+| [0867-new-21-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0139-word-break) |
+| [0867-new-21-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0867-new-21-game) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Matrix
 |  |
@@ -213,4 +215,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0867-new-21-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
