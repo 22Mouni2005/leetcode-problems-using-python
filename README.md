@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0189-rotate-array) |
+| [0679-24-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0679-24-game) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1448-maximum-69-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0078-subsets) |
+| [0679-24-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0679-24-game) |
 ## Divide and Conquer
 |  |
 | ------- |
