@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0013-roman-to-integer) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0342-power-of-four) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0083-remove-duplicates-from-sorted-list) |
