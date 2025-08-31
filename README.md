@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0053-maximum-subarray) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0139-word-break) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0074-search-a-2d-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3973-flip-square-submatrix-vertically](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3973-flip-square-submatrix-vertically) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0679-24-game) |
 ## Divide and Conquer
