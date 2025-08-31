@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0137-single-number-ii) |
 | [0342-power-of-four](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
