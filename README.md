@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0066-plus-one) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0070-climbing-stairs) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0074-search-a-2d-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3973-flip-square-submatrix-vertically](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3973-flip-square-submatrix-vertically) |
