@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0189-rotate-array) |
 | [0679-24-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0679-24-game) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0139-word-break) |
+| [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Two Pointers
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
 | [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2689-rearranging-fruits) |
 ## Database
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
 | [0670-maximum-swap](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0670-maximum-swap) |
 | [1448-maximum-69-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1917-maximum-average-pass-ratio) |
