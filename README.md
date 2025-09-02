@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2689-rearranging-fruits) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3790-fruits-into-baskets-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3973-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
 | [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2689-rearranging-fruits) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Database
 |  |
 | ------- |
@@ -258,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0867-new-21-game) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
