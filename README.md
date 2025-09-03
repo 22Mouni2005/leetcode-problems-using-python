@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0189-rotate-array) |
 | [3973-flip-square-submatrix-vertically](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3973-flip-square-submatrix-vertically) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0141-linked-list-cycle) |
 ## Memoization
 |  |
 | ------- |
