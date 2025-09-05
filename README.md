@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0175-combine-two-tables) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 ## Counting
 |  |
