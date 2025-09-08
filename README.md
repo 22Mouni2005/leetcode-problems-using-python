@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0237-delete-node-in-a-linked-list) |
 ## Memoization
 |  |
