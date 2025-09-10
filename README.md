@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0189-rotate-array) |
 | [0679-24-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0679-24-game) |
+| [0739-daily-temperatures](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0739-daily-temperatures) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0739-daily-temperatures) |
 ## Segment Tree
 |  |
 | ------- |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
