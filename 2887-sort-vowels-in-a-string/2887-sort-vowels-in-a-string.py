@@ -1,9 +1,7 @@
 class Solution:
     def sortVowels(self, s: str) -> str:
         l=[]
-        index=[]
         s1=[]
-        flag=-1
         for i in range(len(s)):
             if s[i] in 'aeiouAEIOU':
                 l.append(s[i])
