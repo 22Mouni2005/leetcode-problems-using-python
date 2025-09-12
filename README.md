@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3830-find-closest-person) |
 ## String
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3462-vowels-game-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -304,4 +306,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0739-daily-temperatures) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
