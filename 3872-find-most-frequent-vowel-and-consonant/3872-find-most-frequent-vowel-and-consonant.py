@@ -4,10 +4,6 @@ class Solution:
         max_c=0
         l=[]
         for i in list(set(list(s))):
-            if i not in l:
-                l.append(i)
-            else:
-                continue
             if i in 'aeiou' and s.count(i)>max_v:
                 max_v=s.count(i)
             elif i not in "aeiou" and s.count(i)>max_c:
