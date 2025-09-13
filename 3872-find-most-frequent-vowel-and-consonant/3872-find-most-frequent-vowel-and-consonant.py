@@ -3,7 +3,7 @@ class Solution:
         max_v=0
         max_c=0
         l=[]
-        for i in s:
+        for i in list(set(list(s))):
             if i not in l:
                 l.append(i)
             else:
