@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0189-rotate-array) |
+| [0611-valid-triangle-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0739-daily-temperatures) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0189-rotate-array) |
+| [0611-valid-triangle-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0908-middle-of-the-linked-list) |
 | [3973-flip-square-submatrix-vertically](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3973-flip-square-submatrix-vertically) |
 ## String Matching
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0611-valid-triangle-number) |
 | [3790-fruits-into-baskets-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
+| [0611-valid-triangle-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0611-valid-triangle-number) |
 | [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2887-sort-vowels-in-a-string) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
+| [0611-valid-triangle-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0670-maximum-swap) |
 | [1448-maximum-69-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1917-maximum-average-pass-ratio) |
