@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0190-reverse-bits) |
 ## Trie
 |  |
 | ------- |
