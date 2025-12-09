@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2689-rearranging-fruits) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3583-count-special-triplets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3583-count-special-triplets) |
 | [3790-fruits-into-baskets-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3790-fruits-into-baskets-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3973-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2689-rearranging-fruits) |
+| [3583-count-special-triplets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3583-count-special-triplets) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3583-count-special-triplets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3583-count-special-triplets) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Recursion
 |  |
