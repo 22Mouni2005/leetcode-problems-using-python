@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2540-minimum-common-value) |
 | [2689-rearranging-fruits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2689-rearranging-fruits) |
+| [2784-check-if-array-is-good](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2784-check-if-array-is-good) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3583-count-special-triplets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3583-count-special-triplets) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2540-minimum-common-value) |
 | [2689-rearranging-fruits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2689-rearranging-fruits) |
+| [2784-check-if-array-is-good](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2784-check-if-array-is-good) |
 | [3583-count-special-triplets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3583-count-special-triplets) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0611-valid-triangle-number) |
 | [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2689-rearranging-fruits) |
+| [2784-check-if-array-is-good](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Database
