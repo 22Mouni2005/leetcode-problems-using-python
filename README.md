@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1917-maximum-average-pass-ratio) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2540-minimum-common-value) |
 | [2689-rearranging-fruits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2689-rearranging-fruits) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0617-merge-two-binary-trees) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0617-merge-two-binary-trees) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
