@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
 | [2540-minimum-common-value](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2574-left-and-right-sum-differences) |
 | [2689-rearranging-fruits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2784-check-if-array-is-good) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -403,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0617-merge-two-binary-trees) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
