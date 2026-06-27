@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0404-sum-of-left-leaves) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0617-merge-two-binary-trees) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0404-sum-of-left-leaves) |
