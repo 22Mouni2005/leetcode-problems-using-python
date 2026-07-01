@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0190-reverse-bits) |
+| [1382-balance-a-binary-search-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1382-balance-a-binary-search-tree) |
 ## Trie
 |  |
 | ------- |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0611-valid-triangle-number) |
 | [0670-maximum-swap](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0670-maximum-swap) |
+| [1382-balance-a-binary-search-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2689-rearranging-fruits) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0617-merge-two-binary-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0617-merge-two-binary-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0617-merge-two-binary-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
@@ -426,4 +431,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
