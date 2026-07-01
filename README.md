@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3583-count-special-triplets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3583-count-special-triplets) |
+| [3719-longest-balanced-subarray-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3790-fruits-into-baskets-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3973-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2784-check-if-array-is-good) |
 | [3583-count-special-triplets](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3583-count-special-triplets) |
+| [3719-longest-balanced-subarray-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3719-longest-balanced-subarray-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3719-longest-balanced-subarray-i) |
 ## Trie
 |  |
 | ------- |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2574-left-and-right-sum-differences) |
+| [3719-longest-balanced-subarray-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
