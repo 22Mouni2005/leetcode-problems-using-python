@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0617-merge-two-binary-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1382-balance-a-binary-search-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0617-merge-two-binary-trees) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -442,4 +444,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1382-balance-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
