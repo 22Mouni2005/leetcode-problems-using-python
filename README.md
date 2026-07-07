@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3830-find-closest-person) |
 ## String
 |  |
