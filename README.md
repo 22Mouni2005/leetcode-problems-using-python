@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1189-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0205-isomorphic-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1189-maximum-number-of-balloons) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2346-largest-3-same-digit-number-in-string) |
