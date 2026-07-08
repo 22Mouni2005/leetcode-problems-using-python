@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1448-maximum-69-number) |
+| [2413-smallest-even-multiple](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2413-smallest-even-multiple) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2469-convert-the-temperature](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2469-convert-the-temperature) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -458,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
