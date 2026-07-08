@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0739-daily-temperatures) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1189-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0670-maximum-swap) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0611-valid-triangle-number) |
 | [2540-minimum-common-value](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2540-minimum-common-value) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0611-valid-triangle-number) |
 | [1288-remove-covered-intervals](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1288-remove-covered-intervals) |
 | [2479-meeting-rooms-iii](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2479-meeting-rooms-iii) |
