@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0412-fizz-buzz) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0319-bulb-switcher) |
 | [3462-vowels-game-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
