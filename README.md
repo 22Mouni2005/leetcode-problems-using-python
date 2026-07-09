@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0739-daily-temperatures) |
