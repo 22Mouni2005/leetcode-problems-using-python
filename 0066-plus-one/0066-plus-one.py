@@ -1,12 +1,15 @@
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
         s=0
-        for i in digits:
-            s=s*10+i
-        s=s+1
-        l=[]
-        while s>0:
-            l.insert(0,s%10)
-            s=s//10
-        return l
-        
+        flag=-1
+        for i in range(len(digits)-1,-1,-1):
+            if digits[i]<9:
+                digits[i]+=1
+                flag=1
+                break
+            else:
+                flag=-1
+                digits[i]=0
+        if flag == -1:
+            digits.insert(0,1)
+        return digits
