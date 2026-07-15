@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1189-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1189-maximum-number-of-balloons) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1189-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1510-find-lucky-integer-in-an-array) |
