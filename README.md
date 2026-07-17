@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1189-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1189-maximum-number-of-balloons) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0867-new-21-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0867-new-21-game) |
 ## Probability and Statistics
 |  |
