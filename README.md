@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1732-find-the-highest-altitude) |
 | [1917-maximum-average-pass-ratio](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1917-maximum-average-pass-ratio) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1448-maximum-69-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2413-smallest-even-multiple) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2469-convert-the-temperature](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2469-convert-the-temperature) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2413-smallest-even-multiple) |
 ## Queue
 |  |
