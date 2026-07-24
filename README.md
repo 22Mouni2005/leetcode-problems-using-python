@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0739-daily-temperatures) |
+| [0997-find-the-town-judge](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0997-find-the-town-judge) |
 | [1288-remove-covered-intervals](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1288-remove-covered-intervals) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0997-find-the-town-judge](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1189-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/0997-find-the-town-judge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Number Theory
 |  |
