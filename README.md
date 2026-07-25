@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3462-vowels-game-in-a-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3536-maximum-product-of-two-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3830-find-closest-person](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3830-find-closest-person) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/22Mouni2005/new-repository-leetcode-solution-in-python/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
 | ------- |
